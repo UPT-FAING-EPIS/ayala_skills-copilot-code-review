@@ -1,5 +1,5 @@
 # GitHub Copilot Code Review
-
+[![Step 4](https://github.com/UPT-FAING-EPIS/ayala_skills-copilot-code-review/actions/workflows/4-step.yml/badge.svg)](https://github.com/UPT-FAING-EPIS/ayala_skills-copilot-code-review/actions/workflows/4-step.yml)
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey CarlosAyala1989!
